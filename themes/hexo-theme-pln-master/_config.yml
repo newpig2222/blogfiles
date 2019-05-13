@@ -1,0 +1,38 @@
+menu:
+  主页: /
+  归档: /archives
+
+logo: <img src="https://github.com/newpig2222/photo/raw/master/txkt.jpg" width="150" height="450" />
+
+more:
+  友情链接: /link
+  Github: https://github.com/newpig2222/
+  微博: http://weibo.com/7116215802
+  rss: /atom.xml
+  关于我: /about
+
+about:
+  title: 懒猪的窝
+  link: https://github.com/newpig2222/
+
+show_toc_bool: true
+share_jia: true
+# If you want to use valine,you should get the appId and appKey form https://leancloud.cn ,more setting please see https://valine.js.org
+valine:
+  enable: true # !!if you want use valine comment system,please set enable: true
+  appId: kQNvHfDvkxziULe8zoTaeTsx-gzGzoHsz #your leancloud appId
+  appKey: E9PlyBmORO47GOXA2wHa8DjM #your leancloud appKey
+  guest_info: nick,mail,link #valine comment header info
+  placeholder: 留下你的脚印吧 # valine comment input placeholder(like: Please leave your footprints )
+  avatar: monsterid  # gravatar style https://valine.js.org/avatar
+  pageSize: 10 # comment list page size
+  verify: false # valine verify code (true/false)
+  notify: false # valine mail notify (true/false)
+  lang: zh-cn
+  visitor: true 
+  recordIP: true
+
+
+excerpt_num: 120
+
+footer_info: © 懒猪 2018-2019
