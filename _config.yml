@@ -1,19 +1,19 @@
-﻿# Hexo Configuration
+# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 静思轩
+title: 闻海亭
 subtitle:
-description: 随性，率真，坦荡
+description: 关于自己的一切
 keywords:
-author: 我坚信：
-language: zh-CN
+author: 懒猪
+language: zh-cn
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://thelazypig.space/blog
+url: https://thelazypig.space/blog/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,10 +72,8 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-
-
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-pln-master
+theme: theme-bmw-master
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
